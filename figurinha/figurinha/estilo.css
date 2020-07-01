@@ -1,0 +1,24 @@
+p{
+    font-family: sans-serif;
+    color:rgb(0, 62, 90);
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+body{
+    background:url(https://i0.wp.com/mearasescoladexadrez.com/wp-content/uploads/2016/03/Background-Pokemon-FIX.jpg?ssl=1);
+}
+div{
+    color: transparent;
+    text-align: center;
+    margin: 10%;
+}
+h2{
+    size: 25px;
+    color: rgb(245, 255, 156);
+}
+button{
+    align: center;
+}
+h1{
+    size:35px;
+    color:black;
+}
